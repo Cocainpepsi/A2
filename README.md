@@ -1,4 +1,4 @@
-# A2
+
 int main() {
     printf("Enter text for analysis: ");
     int count[26] = {0};
